@@ -67,15 +67,9 @@ function drawCircles()
 
 }
 
-// Draw Circles
-jQuery(document).ready(function(){
-	drawCircles();
-})
-
 // Mouse location function
 jQuery(document).ready(function(){
    $(document).mousemove(function(e){
       $('#mouseLocationDiv').html(e.pageX +', '+ e.pageY);
    }); 
-   drawCircles();
 })

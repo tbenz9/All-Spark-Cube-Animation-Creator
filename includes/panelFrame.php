@@ -23,27 +23,9 @@
 </ul>
 </div> <!--panelFrameButtons end -->
 
-<br />
-<br />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-
-<br />
+<canvas id="canvasPanel2d" onload="drawCircles()">
+<!-- <canvas id="canvasPanel2d" width="100%" height="100%" onload="drawCircles()"> -->
+  Sorry, this demo requires a web browser which supports HTML5 canvas!
+</canvas>
 
 
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
-<img class="panelImagePlaceHolder" src="http://focusonmath.files.wordpress.com/2011/06/screen-shot-100-dot-array1.png" width="200px" />
