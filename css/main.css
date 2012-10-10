@@ -1,0 +1,250 @@
+/* header */
+
+#headerTableColumn
+{
+	
+}
+
+#sddm
+{	margin: 0;
+	padding: 0;
+	z-index: 30;
+}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: bold 11px arial;
+}
+
+#sddm li a
+{	display: block;
+	margin: 0 1px 0 0;
+	padding: 4px 10px;
+	width: 120px;
+	background: silver;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+}
+
+#sddm li a:hover
+{	background: black;
+	color: White;
+}
+
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 4px 10px;
+	background: silver;
+	width: 120px;
+	border: 0px solid black;
+}
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding: 5px 10px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: silver;
+		color: black;
+		font: 11px arial;
+	}
+
+	#sddm div a:hover
+	{	background: black;
+		color: #FFF
+	}
+/* End Header */
+
+
+/* 3dFrame */
+
+.threeDFrameButtons 
+{
+	float: right;
+}
+
+#threeDFrameImagePlaceHolder
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#threeDFrameTableColumn
+{
+	border-right: 2px dotted gray;
+	border-top: 2px dotted gray;
+	vertical-align: top;
+}
+
+/* End 3dFrame */
+
+/* panelFrame */
+
+#panelFrameTableColumn
+{
+	border-top: 2px dotted gray;
+}
+
+#snapshotCounter
+{
+	/*width: 130px;
+	margin-left: auto;
+	margin-right: auto;*/
+	float: left;
+}
+
+.panelFrameButtons
+{
+	float: right;
+}
+
+.panelImagePlaceHolder
+{
+	border: 1px solid black;
+}
+
+/* End panelFrame */
+
+
+/* animationFrame */
+
+.animationFrame
+{
+	height: 100px;
+}
+
+#animationFrameScroll
+{
+	height: 450px;
+	overflow:scroll;
+	overflow-x: hidden;
+}
+
+#animationFrameTableColumn
+{
+	border-top: 2px dotted gray;
+	vertical-align:  top;
+}
+
+.animationFrameButtons
+{
+}
+
+.animationFrameImagePlaceHolder
+{
+	float: left;
+}
+
+#animationControls
+{
+	padding-left:  50; /* menu is 120 px wide so padding must be 120+X where X is the distance from the menu */
+	float:  left;
+	border-left: 2px dotted gray;
+	margin-left: 50px;
+}
+
+#loopAnimationDiv
+{
+	float: left;
+	padding-left:  50px;
+	border-left: 2px dotted gray;
+}
+
+#loopAnimationCounter
+{
+	padding-left:  20px; /*padding from animationControls */
+	float:  left;
+	padding-right: 50px;
+}
+
+.loopAnimationCounterInputBox
+{
+	width: 30px;
+}
+
+#rotate180
+{
+	transform: rotate(180deg);
+	-ms-transform: rotate(180deg); /* IE 9 */
+	-webkit-transform: rotate(180deg); /* Safari and Chrome */
+	-moz-transform: rotate(180deg); /* Firefox */
+	-o-transform: rotate(180deg); /* Opera */
+}
+
+/* End animationFrame */
+
+
+/* footer */
+
+#footerTableColumn
+{
+	border-top:  2px dotted gray;
+	padding-top:  5px;
+}
+
+.footerSpacing
+{
+	padding-right:  40px;
+	padding-left:  40px;
+	border-left: 2px dotted gray;
+	float: right;
+}
+
+#mouseLocationDiv
+{
+	float: right;
+	width: 80px;
+}
+
+#brightnessInputBox
+{
+	width: 20px;
+}
+
+.colorButtonsDiv
+{
+}
+
+.colorButtons
+{
+	width:  20px;
+	border-radius: 10px;
+	border:  1px solid black;
+	box-shadow: 4px 4px 1px #888888;
+}
+
+#redButton
+{
+	background-color:  red;
+}
+#greenButton
+{
+	background-color:  green;
+}
+#blueButton
+{
+	background-color:  blue;
+}
+#blackButton
+{
+	background-color:  black;
+}
+#whiteButton
+{
+	background-color:  white;
+}
+
+/* End footer */
+
+
