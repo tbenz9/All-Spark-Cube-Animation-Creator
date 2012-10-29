@@ -23,7 +23,7 @@
 </ul>
 </div> <!--panelFrameButtons end -->
 
-<canvas id="canvasPanel2d" onload="drawCircles()">
+<canvas id="canvasPanel2d">
 <!-- <canvas id="canvasPanel2d" width="100%" height="100%" onload="drawCircles()"> -->
   Sorry, this demo requires a web browser which supports HTML5 canvas!
 </canvas>
